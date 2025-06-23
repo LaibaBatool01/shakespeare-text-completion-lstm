@@ -1,0 +1,26 @@
+# Core deep learning and machine learning libraries
+tensorflow>=2.8.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning utilities
+scikit-learn>=1.0.0
+
+# Dataset and utilities
+kagglehub>=0.1.0
+tqdm>=4.62.0
+
+# Jupyter and interactive widgets
+ipywidgets>=7.6.0
+IPython>=7.25.0
+
+# Image processing (if needed)
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+
+# Additional utilities
+pickle-mixin>=1.0.2 
